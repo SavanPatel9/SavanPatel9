@@ -1,4 +1,4 @@
-#Hi! My name is Savan Patel! 👋
+Hi! My name is Savan Patel! 👋
 
 🕶️ About Me:
 - I love building things! I love to build creative, fun Minecraft projects, which inspires me to build new software applications!
