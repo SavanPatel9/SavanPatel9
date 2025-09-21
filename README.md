@@ -16,4 +16,4 @@
 - Tools: SwiftUI, UIKit, numpy, pytorch
 
 🤝 Contact Me:
-- How to reach me: send me a message on LinkedIn or Twitter (both are linked in my profile)
+- How to reach me: send me a message on LinkedIn or email me at savpatel9@gmail.com
